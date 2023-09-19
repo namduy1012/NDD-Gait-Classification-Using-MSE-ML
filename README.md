@@ -1,5 +1,7 @@
 # NDD-Gait-Classification-Using-MSE-ML
 
+![Example Image]([folder_name/example.jpg](https://www.mdpi.com/entropy/entropy-22-01340/article_deploy/html/images/entropy-22-01340-g002-550.jpg))
+
 ## Overview
 The increase in neurodegenerative diseases (NDD) cases is alarming, making NDD screening pivotal. Considering that NDD can result in gait abnormalities, screening for NDD through gait signals becomes a feasible strategy. This repository centers on developing an NDD classification algorithm using gait force (GF) signals, leveraging multiscale sample entropy (MSE) and machine learning models.
 
